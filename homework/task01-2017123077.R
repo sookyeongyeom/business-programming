@@ -48,6 +48,7 @@ people[2,]
 # 예시와 동일하게 취미정보의 원소값만을 출력합니다.
 people$hobby
 people[['hobby']]
+people[[3]] # Additional Answer (Optional)
 
 # 아래 두 경우는 취미정보를 추출하지만, 예시와는 달리 원소명을 함께 출력합니다.
 # people[3]
